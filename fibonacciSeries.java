@@ -11,9 +11,7 @@ public class fibonacciSeries {
 			b = a ;
 			a = sum ;
 			n-- ;
-
 		}
-
 	}
 
 }
