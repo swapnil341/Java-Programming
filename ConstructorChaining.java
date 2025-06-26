@@ -25,7 +25,7 @@ class Person {
 	}
 }
 
-public class constructorChaining {
+public class ConstructorChaining {
 
 	public static void main(String[] args) {
 		Person p = new Person();
