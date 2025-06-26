@@ -1,4 +1,4 @@
-public class fibonacciSeries {
+public class FibonacciSeries {
 	public static void main(String[] args) {
 		System.out.println("1\n1");
 		int a , b ;
