@@ -74,7 +74,7 @@ class TestEmployee {
 	}
 }
 
-public class testerClassExample {
+public class TesterClassExample {
 
 	public static void main(String[] args) {
 		TestEmployee test1 = new TestEmployee();
